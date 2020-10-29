@@ -10,7 +10,14 @@ public class DemoPage {
 	{
 		System.out.println("This is the search method");
 	}
-    
+    public void input()
+    {
+    	System.out.println("This is the input field");
+    }
+    public void display()
+    {
+    	System.out.println("This is the display method");
+    }
 
 
 }
